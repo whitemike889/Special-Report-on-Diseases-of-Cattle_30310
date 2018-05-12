@@ -20,13 +20,13 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34524
   - agent_name: Mohler, John R. (John Robbins)
     alias: Mohler, John Robbins
-    birthdate: &id002 1875
+    birthdate: 1875
     deathdate: 1952
     gutenberg_agent_id: '34513'
     url: http://www.gutenberg.org/2009/agents/34513
   - agent_name: Atkinson, V. T. (Vickers T.)
     alias: Atkinson, Vickers T.
-    deathdate: &id001 1891
+    deathdate: 1891
     gutenberg_agent_id: '34517'
     url: http://www.gutenberg.org/2009/agents/34517
   - agent_name: Ransom, Brayton Howard
@@ -55,7 +55,7 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34523
   - agent_name: Dickson, Dr. (William)
     alias: Dickson, William
-    deathdate: *id001
+    deathdate: 1891
     gutenberg_agent_id: '34518'
     url: http://www.gutenberg.org/2009/agents/34518
   - agent_name: Lowe, (Dr.) (William Herbert)
@@ -80,11 +80,13 @@ creator:
     - Eichhorn, Adolph
     - Eichorn, Adolph
     - Eichhorn, Adolf
-    birthdate: *id002
+    birthdate: 1875
     deathdate: 1956
     gutenberg_agent_id: '34519'
     url: http://www.gutenberg.org/2009/agents/34519
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30310#Special-Report-on-Diseases-of-Cattle
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2009-10-22'
 gutenberg_type: Text
