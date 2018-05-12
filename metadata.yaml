@@ -1,0 +1,102 @@
+_repo: Special-Report-on-Diseases-of-Cattle_30310
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Law, James
+    birthdate: 1838
+    deathdate: 1921
+    gutenberg_agent_id: '34521'
+    url: http://www.gutenberg.org/2009/agents/34521
+  - agent_name: Trumbower, M. R. (Milton R.)
+    alias: Trumbower, Milton R.
+    gutenberg_agent_id: '34526'
+    url: http://www.gutenberg.org/2009/agents/34526
+  - agent_name: Murray, A. J. (Alexander James)
+    alias: Murray, Alexander James
+    gutenberg_agent_id: '34524'
+    url: http://www.gutenberg.org/2009/agents/34524
+  - agent_name: Mohler, John R. (John Robbins)
+    alias: Mohler, John Robbins
+    birthdate: &id002 1875
+    deathdate: 1952
+    gutenberg_agent_id: '34513'
+    url: http://www.gutenberg.org/2009/agents/34513
+  - agent_name: Atkinson, V. T. (Vickers T.)
+    alias: Atkinson, Vickers T.
+    deathdate: &id001 1891
+    gutenberg_agent_id: '34517'
+    url: http://www.gutenberg.org/2009/agents/34517
+  - agent_name: Ransom, Brayton Howard
+    alias: Ransom, B. H. (Brayton Howard)
+    birthdate: 1879
+    deathdate: 1925
+    gutenberg_agent_id: '34525'
+    url: http://www.gutenberg.org/2009/agents/34525
+  - agent_name: United States. Bureau of Animal Industry
+    gutenberg_agent_id: '25825'
+    url: http://www.gutenberg.org/2009/agents/25825
+  - agent_name: Woodward, Dr. (Benjamin Tilghman)
+    aliases:
+    - Woodward, B. T. (Benjamin Tilghman)
+    - Woodward, Benjamin Tilghman
+    birthdate: 1881
+    gutenberg_agent_id: '34527'
+    url: http://www.gutenberg.org/2009/agents/34527
+  - agent_name: Marsh, C. Dwight (Charles Dwight)
+    aliases:
+    - Marsh, Charles Dwight
+    - Marsh, C. D. (Charles Dwight)
+    birthdate: 1855
+    deathdate: 1932
+    gutenberg_agent_id: '34523'
+    url: http://www.gutenberg.org/2009/agents/34523
+  - agent_name: Dickson, Dr. (William)
+    alias: Dickson, William
+    deathdate: *id001
+    gutenberg_agent_id: '34518'
+    url: http://www.gutenberg.org/2009/agents/34518
+  - agent_name: Lowe, (Dr.) (William Herbert)
+    alias: Lowe, William Herbert
+    birthdate: 1862
+    deathdate: 1933
+    gutenberg_agent_id: '34522'
+    url: http://www.gutenberg.org/2009/agents/34522
+  - agent_name: Hickman, Richard W. (Richard West)
+    alias: Hickman, R. W. (Richard West)
+    birthdate: 1852
+    deathdate: 1926
+    gutenberg_agent_id: '34520'
+    url: http://www.gutenberg.org/2009/agents/34520
+  - agent_name: Pearson, Leonard
+    birthdate: 1868
+    deathdate: 1909
+    gutenberg_agent_id: '25826'
+    url: http://www.gutenberg.org/2009/agents/25826
+  - agent_name: Eichhorn, A. (Adolph)
+    aliases:
+    - Eichhorn, Adolph
+    - Eichorn, Adolph
+    - Eichhorn, Adolf
+    birthdate: *id002
+    deathdate: 1956
+    gutenberg_agent_id: '34519'
+    url: http://www.gutenberg.org/2009/agents/34519
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2009-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30310'
+  lccn: agr24000255
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cattle -- Diseases'
+- !lcc 'SF'
+title: Special Report on Diseases of Cattle
+url: http://www.gutenberg.org/ebooks/30310
